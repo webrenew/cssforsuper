@@ -1,3 +1,11 @@
+.super-navbar__cta {
+  font-weight: bold;
+}
+
+.notion-toggle__trigger .notion-toggle__trigger_icon { 
+    display: none !important;
+}
+
 .notion-heading {
     font-weight: 700;
     margin-bottom: 0px;
